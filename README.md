@@ -11,6 +11,7 @@ node app.js
 Comandos aprendidos no Curso da Alura, link do resumo -> https://guilhermeonrails.github.io/manual-do-git-e-github/
 
 > Linhas de Comando utilizado durante o curso: 
+
 Para clonar o projeto na máquina:
 1° Ir no Projeto;
 2° Clicar em CODE;
